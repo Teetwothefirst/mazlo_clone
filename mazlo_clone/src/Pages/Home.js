@@ -4,7 +4,7 @@ import '../App.css'
 
 function Home(){
     return <>
-    <header class="d-flex justify-content-between align-items-center px-5">
+    <header class="w-100 d-flex justify-content-between align-items-center px-lg-5">
         <div class="d-flex gap-5 align-items-center">
             <div><img src={mazloImg} alt="Mazlo Image" width="120px" height="120px"/></div>
             <div class="d-flex gap-3"> <span class="inline_element">Pricing</span><span class="inline_element">About</span><span class="inline_element">Apply Now</span><span class="inline_element">Login</span>  </div>

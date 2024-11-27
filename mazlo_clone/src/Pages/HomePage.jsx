@@ -13,7 +13,13 @@ function HomePage(){
 
        <p class="mt-5">No credit checks, fees, or obligations</p>
     </main>
-    <section>
+
+    <section className="mt-5">
+        <h3>Earn Interest on Total Holdings</h3>
+
+    </section>
+
+    <section className="mt-5">
         <div className="d-flex">
             <div> </div>
             <div> </div>
